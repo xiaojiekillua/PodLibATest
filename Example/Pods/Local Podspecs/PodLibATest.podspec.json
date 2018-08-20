@@ -1,0 +1,27 @@
+{
+  "name": "PodLibATest",
+  "version": "0.1.0",
+  "summary": "PodLibATest is a test project.",
+  "description": "PodLibATest is a test project.",
+  "homepage": "https://github.com/xiaojiekillua/PodLibATest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaojiekillua": "lujie.lin@ukelink.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaojiekillua/PodLibATest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PodLibATest/Classes/**/*",
+  "dependencies": {
+    "DZNEmptyDataSet": [
+
+    ]
+  }
+}
